@@ -1,5 +1,5 @@
-[
-    {
+[{ 
+    
         "Sounds": {
             "Automatic guns": {
                 "AK-47": "2934888736",
@@ -32,6 +32,7 @@
                 "Pizza munch": "22593942"
             }
         }
+        
     },
     {
         "Reloading sounds": {
@@ -65,7 +66,6 @@
             "UI and icons": {
                 "Icons": {
                     "Logo": "468611172",
-                    "Gun icon atlas": "93481383611512",
                     "Prisoner team icon": "99519095539896",
                     "Bus stop sign": "69299747",
                     "Guard team icon": "124901910829010"
@@ -82,7 +82,12 @@
                 },
                 "Food textures": {
                     "Soda can texture": "10470600",
-                    "Potato chips texture": "156416472"
+                    "Potato chips texture": "156416472",
+                    "Milk": "12345624"
+                },
+                "UI": {
+                    "Mobile thing": "105570925653929",
+                    "Gun icon atlas": "93481383611512"
                 }
             },
             "Environment": {
@@ -113,9 +118,13 @@
                     "Riot shield": "82265116",
                     "C4": "87643737848206",
                     "C4 button": "99099028489147",
-                    "Unsure if their swapped textures, ill check it out later.": "124812262169382",
-                    "Swat vest texture": "109229529"
+                    "Unsure if their swapped textures, ill check it out later.": "124812262169382"
                 }
+            },
+            "Equipment": {
+                "Mafia vest texture": "125957035805244",
+                "Riot shield": "82265116",
+                "Swat vest texture": "109229529"
             }
         }
     },
@@ -168,7 +177,7 @@
                 },
                 "Protection": {
                     "Riot shield": "82265009",
-                    "Sniper vest": "108788572",
+                    "Sniper vest and swat vest": "108788572",
                     "Mafia vest": "95106207295270"
                 }
             },
@@ -186,8 +195,9 @@
             "Food": {
                 "Soda can": "10470609",
                 "Chips bag": "19106014",
-                "Food 1": "209701007",
-                "Food 2": "209701005"
+                "Dinner": "209701007",
+                "Lunch": "209701005",
+                "Breakfast": "209701000"
             }
         }
         },
@@ -236,4 +246,3 @@
             }
         }
 ]
-
