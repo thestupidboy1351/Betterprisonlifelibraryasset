@@ -1,0 +1,239 @@
+[
+    {
+        "Sounds": {
+            "Automatic guns": {
+                "AK-47": "2934888736",
+                "M4A1": "2934888536",
+                "MP5": "7698730413",
+                "FAL": "81631476486345"
+            },
+            "Pump-Action Shotgun": {
+                "Remington 870": "2934889760"
+            },
+            "Melee": {
+                "Punch": "2935002319"
+            },
+            "Semi-Automatic": {
+                "M9": "2934888024",
+                "Revolver": "10209803"
+            },
+            "Bolt-Action": {
+                "Sniper": "84419861201505"
+            },
+            "Stun": {
+                "Taser": "2934889941"
+            },
+            "Miscellaneous": {
+                "Car": "2934935407",
+                "Door beep 1": "135232042",
+                "Door beep 2": "186457642",
+                "Drinking soda sound": "10722059",
+                "Taco munch": "15047813",
+                "Pizza munch": "22593942"
+            }
+        }
+    },
+    {
+        "Reloading sounds": {
+            "Pump-Action shotgun": {
+                "Shotgun reload": "2934888952",
+                "Shotgun pump": "255061173"
+            },
+            "Generic": {
+                "Generic reload": "2934887229"
+            },
+            "Stun": {
+                "Taser reload": "82273261"
+            },
+            "Semi-Automatic": {
+                "Revolver reload": "104727715547917"
+            },
+            "Bolt-Action": {
+                "Sniper reload": "73708758290921"
+            }
+        }
+    },
+    {
+        "Miscellaneous": {
+            "Glass break": "12222005",
+            "Hammer smash 1": "21433696",
+            "Hammer smash 2": "21433711"
+        }
+    },
+    {
+        "Textures": {
+            "UI and icons": {
+                "Icons": {
+                    "Logo": "468611172",
+                    "Gun icon atlas": "93481383611512",
+                    "Prisoner team icon": "99519095539896",
+                    "Bus stop sign": "69299747",
+                    "Guard team icon": "124901910829010"
+                },
+                "Miscellaneous": {
+                    "Crosshair": "98794608762931",
+                    "Car wheel 1": "275185551",
+                    "Car wheel 2": "275185785",
+                    "Handcuff texture": "88046679",
+                    "Handcuff cursor 1": "289707987",
+                    "Handcuff cursor 2": "287102630",
+                    "Key card texture": "125992344861781",
+                    "Weights": "122333759"
+                },
+                "Food textures": {
+                    "Soda can texture": "10470600",
+                    "Potato chips texture": "156416472"
+                }
+            },
+            "Environment": {
+                "Main prison floor": "277483742",
+                "Guard room floor": "277500457",
+                "Stop sign FT": "116620938",
+                "Stop sign BK": "116620941",
+                "Fence": "27149256",
+                "Expanded metal": "157020160"
+            },
+            "Weapon textures": {
+                "Automatic guns": {
+                    "AK-47": "82603222461633",
+                    "M4A1": "84696601038104",
+                    "MP5": "74453061964221"
+                },
+                "Pump-Action Shotgun": {
+                    "Remington 870": "134695297080980"
+                },
+                "Semi-Automatic": {
+                    "M9": "100649571955287",
+                    "Revolver": "106990054205648"
+                },
+                "Stun": {
+                    "Taser": "82337709"
+                },
+                "Miscellaneous": {
+                    "Riot shield": "82265116",
+                    "C4": "87643737848206",
+                    "C4 button": "99099028489147",
+                    "Unsure if their swapped textures, ill check it out later.": "124812262169382",
+                    "Swat vest texture": "109229529"
+                }
+            }
+        }
+    },
+    {
+        "Skyboxes": {
+            "Skybox Down": "150553062",
+            "Skybox Up": "150553131",
+            "Skybox Left": "150553096",
+            "Skybox Right": "150553119",
+            "Skybox Front": "150553079",
+            "Skybox Back": "150553049"
+        }
+    },
+    {
+        "Meshes": {
+            "Weapons": {
+                "Automatic guns": {
+                    "AK-47": "71100855161498",
+                    "M4A1": "89309227654647",
+                    "MP5": "118007003118471"
+                },
+                "Pump-Action Shotgun": {
+                    "Remington 870": "85472077740638"
+                },
+                "Semi-Automatic": {
+                    "M9": "110631186758351",
+                    "Revolver": "117805356475599"
+                },
+                "Stun": {
+                    "Taser": "82337638"
+                },
+                "Explosives": {
+                    "C4": "124812262169382",
+                    "C4 button": "88309652557199"
+                },
+                "Miscellaneous": {
+                    "Weights": "122333663",
+                    "American flag": "288653509"
+                },
+                "Bolt-Action": {
+                    "Sniper body": "863984521",
+                    "Sniper scope": "864027288",
+                    "Some part of the sniper idk what it is": "863986498",
+                    "Sniper glaze scope thing": "863986649"
+                }
+            },
+            "Equipment": {
+                "Tools": {
+                    "Handcuffs": "88046657"
+                },
+                "Protection": {
+                    "Riot shield": "82265009",
+                    "Sniper vest": "108788572",
+                    "Mafia vest": "95106207295270"
+                }
+            },
+            "Clothing": {
+                "Police Cap": "1028788",
+                "SWAT Hat": "25648271",
+                "SWAT Mask": "1286427",
+                "Police pants": "86225292009619",
+                "Police shirt": "106725875262965",
+                "SWAT pants": "121354863881202",
+                "SWAT shirt": "101663889915762",
+                "Prisoner pants": "106405765",
+                "Prisoner shirt": "106405750"
+            },
+            "Food": {
+                "Soda can": "10470609",
+                "Chips bag": "19106014",
+                "Food 1": "209701007",
+                "Food 2": "209701005"
+            }
+        }
+        },
+        {
+            "Fonts": {
+                "RobotoMono-bold": "8075229982",
+                "Montserrat-SemiBold": "11598119872",
+                "BuilderSans-SemiBold": "16480736149"
+            }
+        },
+        {
+            "Animations": {
+                "Melee": {
+                    "Punch animation 1": "484926359",
+                    "Punch animation 2": "484200742"
+                },
+                "Defenseless": {
+                    "Collapse": "279227693",
+                    "Unconscious": "279229192",
+                    "Arrested": "287112271"
+                },
+                "Sneaky": {
+                    "Crawl idle": "481089053",
+                    "Crawl active": "481088553"
+                },
+                "Offensive": {
+                    "Stab": "275012308",
+                    "Shoot": "389472570",
+                    "Shotgun shoot": "405194080",
+                    "Sniper shoot": "83690472549256"
+                },
+                "Resurgence": {
+                    "Generic reload": "388723916",
+                    "Shotgun reload": "405212265",
+                    "Revolver reload": "113267949064300",
+                    "Sniper reload i think": "131326339350805"
+                },
+                "Posturing": {
+                    "Generic gun hold": "388726667",
+                    "Generic gun equip": "107176344504758"
+                },
+                "Passive": {
+                    "Eating": "176036458",
+                    "Eating a snack": "111090572475133"
+                }
+            }
+        }
+]
+
